@@ -8,3 +8,5 @@ Here are some random facts about me.
 - 📫 How to reach me: Message me on LinkedIn or send me an email: nischith.javagal@mavs.uta.edu/nischithpj@gmail.com
 - ⚡ Fun fact: I'm one of the World's okay'est guitar players and I love MotoGP and F1!
 
+![](https://komarev.com/ghpvc/?username=nischithp)
+
